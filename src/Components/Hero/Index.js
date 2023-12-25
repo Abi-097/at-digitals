@@ -1,6 +1,5 @@
 import React from "react";
 import { heroImage } from "../../image";
-import Button from "react-bootstrap/Button";
 import "./Style.css";
 import CustomButton from "../../Common/Button/Index";
 const Hero = () => {
