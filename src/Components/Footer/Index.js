@@ -18,7 +18,7 @@ const Foot = () => {
               </p>
             </div>
 
-            <div className="col-md-6 col-lg-3 col-12 ft-2 order-lg-last">
+            <div className="col-md-6 col-lg-3 col-12 ft-2">
               <h5>Our Technologies</h5>
               <ul>
                 <li className="nav-item">

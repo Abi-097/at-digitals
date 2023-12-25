@@ -13,7 +13,7 @@ const Body = () => {
       <Container>
         <Row>
           <Col>
-            <img src={bodyImage1} alt={bodyImage1} />
+            <img src={bodyImage2} alt={bodyImage2} />
           </Col>
           <Col className="d-flex flex-column justify-content-center">
             <div className="text-content">
@@ -53,7 +53,7 @@ const Body = () => {
             </div>
           </Col>
           <Col xs={{ order: 1 }} md={{ order: 2 }}>
-            <img src={bodyImage2} alt={bodyImage2} />
+            <img src={bodyImage1} alt={bodyImage1} />
           </Col>
         </Row>
       </Container>

@@ -5,15 +5,6 @@ p {
   text-transform: capitalize;
 }
 
-.CustomButton {
-  background: rgba(242, 141, 53, 1) !important;
-  border: none !important;
-  color: rgba(255, 255, 255, 1) !important;
-  border-radius: 0 !important;
-  font-weight: 400 !important;
-  font-size: 14px !important;
-}
-
 .custom-bg-color {
   background: linear-gradient(
     298deg,
