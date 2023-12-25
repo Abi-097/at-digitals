@@ -32,9 +32,16 @@ const Hero = () => {
             B.S.
           </p>
 
-          <Button className="btn btn-light CustomButton">
+          <CustomButton
+            color="rgba(242, 141, 53, 1) "
+            border="none"
+            Fcolor="rgba(255, 255, 255, 1) "
+            BorderRadius="0"
+            FSize="14px"
+            className="btn btn-light"
+          >
             Get free consultation
-          </Button>
+          </CustomButton>
         </div>
       </div>
     </div>

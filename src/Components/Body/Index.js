@@ -24,7 +24,7 @@ const Body = () => {
                 methods to respond to different intents shown by your potential
                 customers who interact with your business online.
               </p>
-              <CustomButton color="#F28D35" width="7rem">
+              <CustomButton color="#F28D35" width="7rem" border="none">
                 Learn More
               </CustomButton>
             </div>
@@ -47,7 +47,7 @@ const Body = () => {
                 different mix. We provide a clear concept and strategic overview
                 to find the most efficient model for your business.
               </p>
-              <CustomButton color="#F28D35" width="7rem">
+              <CustomButton color="#F28D35" width="7rem" border="none">
                 Learn More
               </CustomButton>
             </div>
