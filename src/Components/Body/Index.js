@@ -4,9 +4,8 @@ import Row from "react-bootstrap/Row";
 import Col from "react-bootstrap/Col";
 import { bodyImage1 } from "../../image";
 import { bodyImage2 } from "../../image";
-import "./Style.css";
 import CustomButton from "../../Common/Button/Index";
-
+import "./Style.css";
 const Body = () => {
   return (
     <div>
