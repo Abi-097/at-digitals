@@ -1,0 +1,7 @@
+.navbar-bg {
+  background-color: #6b3cc9;
+}
+
+.custom-toggler .navbar-toggler-icon {
+  color: white; /* Change the color to your preferred color */
+}
