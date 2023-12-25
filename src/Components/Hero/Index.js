@@ -25,7 +25,7 @@ const Hero = () => {
         </div>
       </div>
       <div className="d-md-none">
-        <div className="border border-3 border-primary py-3 px-4 custom-bg-color text-white">
+        <div className="border py-3 px-4 custom-bg-color text-white">
           <p className="fw-bold fs-3 mb-4">
             We crush your competitors, goals, and sales records - without the
             B.S.
